@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mfsurvilo
-- 👀 I’m interested in embedded systems, control systems, and mechanical engineering. 
-- 🌱 I’m currently learning Git, Python, C/C++
-- 📫 How to reach me ..
+- 👋 Hi, I’m Matt
+- 👀 I’m interested in embedded systems, robotic control systems, and mechanical engineering. 
+- 🌱 I’m currently learning Git, Python, C/C++ and ROS
+- 📫 Reach me at matt@greenzie.com
 
 
 <!---
