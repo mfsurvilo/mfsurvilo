@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m interested in embedded systems, robotic control systems, and mechanical engineering. 
-- 🌱 I’m currently learning Git, Python, C/C++ and ROS
-- 📫 Reach me at matt@greenzie.com
+- 👀 I like designing circuits, building hardware and writing embedded code. 
+- 🌱 Currently working in c++, python and ROS
+- 📫 Reach me at mfsurvilo@gmail.com
 
 
 <!---
